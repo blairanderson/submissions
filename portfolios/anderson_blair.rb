@@ -2,6 +2,7 @@
   :last_name => "Anderson",
   :first_name => "Blair",
   :email_address => "blair81@gmail.com",
+  :skype_username => 'blair1984',
   :looking_for_description => "I don't _just_ want to join a company, I want to join a team. I want to work with a group of people that care about educating each-other and working towards a common goal. I'm most passionate about disrupting politics, healthcare, payments, and education but would be happy to work outside of these industries. I'm eager to pair with amazing programmers, and to continually become better.",
   :best_at => ['Testing First', 'Writing Clean Code', 'Getting Things Done!'],
   :looking_for => ["Continuous Learning", 'Building Products', "Having Fun"],
@@ -15,10 +16,10 @@
       :what_to_look_for => ['HyperMedia API endpoint at /api/v1', 'The Simplicity of The Gem', 'Clean Design and Thorough Implementation']
     }
     :project_2 => {
-      :title => "RunTalk - a mobile chat system"
-      :description => "RunTalk is a mobile chat system. It uses services to break up the architecture into more manageable pieces."
+      :title => "RunTalk - chatroom webApp for mobile interfaces."
+      :description => "RunTalk is a chatroom webapp designed for a mobile experience. It lets you chat with other people, upload photos, or drop a pin of your location into any chatroom. We're using DitigalOcean to host our VPS, running ruby-2 and rails-4 with a PubSub architecture."
       :url => 'http://github.com/blairanderson/runtalk'
-      :what_to_look_for => ['You get services!', 'and you get services!', 'and you get services!']
+      :what_to_look_for => ['visit www.runtalk.us for a demo', 'faye for front-end PubSub', 'redis backed PubSub for data persistence']
     }
     :project_3 => {
       :title => "HaxHub - Integrating the APIs of Github, Pivotal Tracker, and Travis CI to serve as an all-in-one software project feed."
